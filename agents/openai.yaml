@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Product OS"
+  short_description: "Turn ideas into build-ready PRDs"
+  default_prompt: "Use $prd-product-os to start or continue a PRD from the current project context."
